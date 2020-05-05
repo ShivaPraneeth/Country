@@ -1,0 +1,3 @@
+Country: Canada
+Capital:ottawa
+Leader:Justin trudo,Prime Minister
