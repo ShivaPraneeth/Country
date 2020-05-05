@@ -1,3 +1,4 @@
 country: INDIA
 capital:Delhi
 Leader:Narendra modi, Prime Minister
+Sport:cricket
